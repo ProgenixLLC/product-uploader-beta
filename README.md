@@ -6,6 +6,6 @@ Feel free to reach out in the discord channel as well, one of us will be there t
 
 [Report a Bug](https://github.com/ProgenixLLC/product-uploader-beta/issues/new?assignees=bigmac1337&labels=bug&projects=&template=bug_report.md&title=) 🚀
 
-[Latest Release](https://github.com/ProgenixLLC/product-uploader-beta/releases/tag/1.1.2-beta)
+[Latest Release](https://github.com/ProgenixLLC/product-uploader-beta/releases/tag/1.1.7-beta)
 
 Happy uploading! :)
